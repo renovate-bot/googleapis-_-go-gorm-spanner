@@ -8,12 +8,12 @@ require (
 	cloud.google.com/go v0.123.0
 	cloud.google.com/go/spanner v1.88.0
 	github.com/google/uuid v1.6.0
-	github.com/googleapis/go-gorm-spanner v1.9.1
+	github.com/googleapis/go-gorm-spanner v1.10.0
 	github.com/googleapis/go-gorm-spanner/postgresql/samples v1.9.1
 	github.com/googleapis/go-gorm-spanner/samples v1.9.1
 	github.com/googleapis/go-sql-spanner v1.24.0
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/api v0.266.0
+	google.golang.org/api v0.267.0
 	google.golang.org/grpc v1.79.1
 	gorm.io/driver/postgres v1.6.0
 	gorm.io/gorm v1.31.1
