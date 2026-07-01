@@ -16,8 +16,8 @@ require (
 	github.com/googleapis/go-gorm-spanner v1.10.2
 	github.com/googleapis/go-sql-spanner v1.26.0
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/api v0.286.0
-	google.golang.org/grpc v1.81.1
+	google.golang.org/api v0.287.0
+	google.golang.org/grpc v1.82.0
 	google.golang.org/protobuf v1.36.11
 	gorm.io/gorm v1.31.2
 )
@@ -48,7 +48,7 @@ require (
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.3.16 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.3.17 // indirect
 	github.com/googleapis/gax-go/v2 v2.22.0 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
